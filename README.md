@@ -1,4 +1,4 @@
-# Featured Repos
+## Featured Repos
 
 ## .NET Core 2.1/3.1
 
